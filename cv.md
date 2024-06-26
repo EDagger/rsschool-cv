@@ -1,6 +1,7 @@
 [rsschool-cv] (адрес ссылки)  
 ---
 
+![Image](rsschool-cv\IMG_20240619_155528.jpg)
 # Mikhail Panov
 ---
 
