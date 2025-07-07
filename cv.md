@@ -10,7 +10,7 @@
 * Location: Izhevsk, Russia
 * Phone: +7 (963) 541-86-20
 * E-mail: edagger182@gmail.com
-* GitHub: [EDagger] (https://github.com/EDagger)
+* GitHub: [EDagger](https://github.com/EDagger)
 
 ## About me
 ---
