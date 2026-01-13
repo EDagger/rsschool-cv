@@ -1,0 +1,35 @@
+.imgava {   
+    /* display: inline-block; */
+    vertical-align: middle;
+    width: 350px;
+    height: 400px;
+    justify-self: start;
+    }
+
+h1 {
+      /* display: inline-block; */
+      color: #499b6a;
+      justify-self: center;
+    }
+
+.divContacts {
+  color: #499b6a;
+  justify-self:center;
+} 
+
+.divava {
+    display: grid;
+    background: #33353d;
+    display: grid;
+    grid-template-columns:20% 40% 40%;
+  }
+ 
+a {
+  color: #6b527c
+}
+
+nav {
+  background-color: #2c5e40;
+  margin: 0 auto;
+  text-align: center ;
+}
